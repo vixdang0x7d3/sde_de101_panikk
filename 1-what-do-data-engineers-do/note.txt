@@ -1,0 +1,17 @@
+Q: Where would you start if you're hired to enable data analytics ? How would you go about gathering requirements ?
+
+A:
+
+- First, i'll try my best to understand how the bussiness work. After i understand the process, i'll make questions about the requirements of the customers based on my understanding of the system; in addition to that, i'll also make questions about details that i'm not sure about
+
+- Next i'll go and explore the datasources that are available if any and try to grasp the characteristiccs and shape of the data meanwhile i'll be reflecting on the requirements.
+
+- After exploring the data, i'll make a high level plan of what i need to do:
+		- Where can i get the data and how ?
+		- How will i store and organize the data ?
+		- What transformations i'll need to apply to the data to satisfy the requirements ?
+		- Further downstream tasks: visualization, writing API, ML deployment, ... 
+		- Decide the appropriate tools, frameworks and strategy for the job 
+
+
+
